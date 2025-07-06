@@ -1,5 +1,5 @@
 # Employee and Payroll Management System
-#
+
 Welcome to the Employee and Payroll Management System GitHub repository! This C++ application is designed to efficiently manage employees and streamline payroll processes for businesses. The project is continuously evolving, and we welcome your contributions and feedback.
 
 ## Project Overview
